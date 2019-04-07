@@ -1,0 +1,2 @@
+# Daily-case
+Common practice
